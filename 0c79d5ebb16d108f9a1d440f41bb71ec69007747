@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a1b2928_51d8d3ef",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 271,
+      "author": {
+        "id": 848
+      },
+      "writtenOn": "2014-08-23T07:18:03Z",
+      "side": 1,
+      "message": "Fix alignment of this block",
+      "revId": "0c79d5ebb16d108f9a1d440f41bb71ec69007747",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
